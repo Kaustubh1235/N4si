@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubh1235&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubh1235" /> </p>
 
 - 🔭 I’m currently working on **Agri AI**
-
+  
 - 🌱 I’m currently learning **FLASK,TRANFORMERS,LLM**
 
 - 👯 I’m looking to collaborate on **AI application**
